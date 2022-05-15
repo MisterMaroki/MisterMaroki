@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-**MisterMaroki/MisterMaroki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [this chrome extension](https://github.com/MisterMaroki/trade-tracker-extension-v1)
 - 🌱 I’m currently learning Next-JS
 - 👯 I’m looking to collaborate on [this chrome extension](https://github.com/MisterMaroki/trade-tracker-extension-v1)
