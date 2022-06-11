@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [this chrome extension](https://github.com/MisterMaroki/trade-tracker-extension-v1) 
 - 🌱 I’m currently learning Next-JS
-- 👯 I’m looking to collaborate on [this chrome extension](https://github.com/MisterMaroki/trade-tracker-extension-v1)
 - 💬 Message me about work, I'm open to it
 - 📫 How to reach me: [email me](mailto:omar.maroki@outlook.com)
 - ⚡ Fun fact: I've been to over 30 countries🌴🏖 and I love to train Jiu-Jitsu🥋
