@@ -12,7 +12,7 @@
 # My Story
 
 
-I always had this feeling that being a developer was something that I was destined to do, but I just didn't take it seriously when I learned python in secondary school. I've always been a problem solver and an enjoyer of mathematics, so you'd think that the natural path for me was in development of some kind. 
+I always had this feeling that being a developer was something that I was destined to do, but I just didn't take it seriously when I learned python in secondary school. I've always been a problem solver and an enjoyer of mathematics, so you'd think that the natural path for me was in development or engineering.
 
 But no - I went straight into sales after finishing college because I thought life was all about the money...
 
